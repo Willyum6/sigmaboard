@@ -33,7 +33,7 @@ __________________
 FIRMWARE:
 Sigmaboard uses QMK.
 Keys act as arrow keys, with the two oriented on the right in a stack operate as "enter" and "shift"(to play games)
-OLED screen should display an animation of bones moving across the screen:
+OLED screen should display an animation of bones ( that I created from scrath in Photoshop) moving across the screen:
 ![bone-animation-2](https://github.com/user-attachments/assets/f9d26aa6-c2f0-4068-8655-ee297aae3466)
 
 _______________
