@@ -16,6 +16,13 @@ Contains:
   CAD:
   3 parts: a bottom case, a middle plate to define the keyholes, and a top cover which has slits to let LEDs shine through, keyspaces, and an opening for the OLED
   <img width="936" height="751" alt="Screenshot 2025-12-26 001733" src="https://github.com/user-attachments/assets/b61d53b6-d6a3-4b99-a9e9-db27aee3f2df" />
+
+WITHOUT 3rd LAYER: 
+<img width="1504" height="848" alt="Screenshot 2025-12-27 233200" src="https://github.com/user-attachments/assets/21d165a7-a36e-4816-9a71-df655c37d697" />
+
+WITHOUT 3RD AND 2ND layer: 
+<img width="1536" height="837" alt="Screenshot 2025-12-27 233151" src="https://github.com/user-attachments/assets/fef52778-3c83-44d1-b04b-ad339c66b9cd" />
+
   (made in fusion360)
 
   ________________
